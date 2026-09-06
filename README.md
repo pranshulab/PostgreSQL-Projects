@@ -1,2 +1,0 @@
-# PostgreSQL-Projects
-learning PostgreSQL
